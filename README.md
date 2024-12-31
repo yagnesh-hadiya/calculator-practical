@@ -33,3 +33,12 @@ First, clone this repository to your local machine:
 git clone https://github.com/yagnesh-hadiya/calculator-practical.git
 cd calculator-practical
 ```
+
+### Key Steps for Setup and Running:
+
+1. **Clone the repository**: How to get the project locally.
+2. **Install dependencies**: Installing all the necessary packages with `npm install`.
+3. **Run the development server**: Start the React application with `npm start`.
+4. **Run tests**: Use `npm test` to run Jest tests.
+5. **Lint and format the code**: Use `npm run lint` and `npm run lint:fix` to ensure code quality.
+6. **Build the app for production**: If you want to deploy it, use `npm run build` to generate a production-ready build.
